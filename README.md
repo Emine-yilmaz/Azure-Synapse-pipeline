@@ -30,9 +30,9 @@ git clone [https://github.com/MicrosoftLearning/dp-203-azure-data-engineer](http
 cd dp-203/Allfiles/labs/10
 ./setup.ps1
 ```
--If prompted, select the Azure subscription you wish to use.
--When asked, enter and remember a password for your Azure Synapse SQL pool.
--Wait for the script to complete. This process may take approximately 10 minutes or longer.
+*If prompted, select the Azure subscription you wish to use.
+*When asked, enter and remember a password for your Azure Synapse SQL pool.
+*Wait for the script to complete. This process may take approximately 10 minutes or longer.
 ### 4.Verify Provisioned Resources
 -Once the script finishes, navigate to the resource group named dp203-xxxxxxx (where xxxxxxx is a unique suffix) in the Azure portal.
 -Select your Synapse workspace within this resource group
